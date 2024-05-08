@@ -31,9 +31,9 @@
 <br>
 🔨  Tools:
 <div style="display: inline_block"><br>
-<a href="http://" target="_blank"><img align="center" alt="NM-npm" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></a>         
-<a href="http://" target="_blank"><img align="center" alt="NM-Git" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a> 
-<a href="http://" target="_blank"><img align="center" alt="NM-VsCode" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /></a>   </div>
+<a href="https://www.npmjs.com/" target="_blank"><img align="center" alt="NM-npm" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></a>         
+<a href="https://git-scm.com/" target="_blank"><img align="center" alt="NM-Git" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a> 
+<a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="NM-VsCode" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /></a>   </div>
   
 ##
 
