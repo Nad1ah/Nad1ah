@@ -6,10 +6,11 @@
 
 ## 👩‍💻 Sobre Mim
 
-Full-Stack Web Developer & Data Analyst apaixonada por criar soluções digitais inovadoras. Comecei minha jornada como desenvolvedora em 2024 e estou constantemente aprendendo e evoluindo minhas habilidades.
+Full-Stack Web Developer & Data Analyst apaixonada por criar soluções digitais inovadoras. 
+Comecei minha jornada como desenvolvedora em 2024 e estou constantemente aprendendo e evoluindo minhas habilidades.
 
 - 🚀 Atualmente trabalhando em projetos Full-Stack com React, Node.js e Flutter
-- 📊 Explorando análise de dados esportivos e visualizações interativas
+- 📊 Explorando análise de dados e visualizações interativas
 - 🌱 Aprendendo continuamente novas tecnologias e frameworks
 - 🐶 Apaixonada por cachorros
 - 📺 Viciada em séries e filmes
